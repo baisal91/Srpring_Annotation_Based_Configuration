@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Java SE 8 [1.8.0_151]">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/a/Desktop/2020-Cognixia/corelib/asm-debug-all-3.2.jar"/>
+	<classpathentry kind="lib" path="/Users/a/Desktop/2020-Cognixia/corelib/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="/Users/a/Desktop/2020-Cognixia/corelib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="/Users/a/Desktop/2020-Cognixia/corelib/spring-aop-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/a/Desktop/2020-Cognixia/corelib/spring-beans-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/a/Desktop/2020-Cognixia/corelib/spring-context-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/a/Desktop/2020-Cognixia/corelib/spring-context-support-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/a/Desktop/2020-Cognixia/corelib/spring-core-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/a/Desktop/2020-Cognixia/corelib/spring-expression-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
